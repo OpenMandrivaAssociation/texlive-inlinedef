@@ -1,6 +1,6 @@
 Name:		texlive-inlinedef
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Inline expansions within definitions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inlinedef
