@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Inline expansions within definitions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/inlinedef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/inlinedef
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inlinedef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/inlinedef.doc.r%{version}.tar.xz
